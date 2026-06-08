@@ -1,0 +1,30 @@
+[
+  {
+    "user": "manish",
+    "pin": 123,
+    "accountno": 5567,
+    "age": 23,
+    "balance": 4000
+  },
+  {
+    "user": "arun",
+    "pin": 1234,
+    "accountno": 9999,
+    "age": 23,
+    "balance": 3000
+  },
+  {
+    "user": "gudiya",
+    "pin": 1234,
+    "accountno": 4079665513,
+    "age": 15,
+    "balance": 0
+  },
+  {
+    "user": "pavan",
+    "pin": 1234,
+    "accountno": 1632208286,
+    "age": 22,
+    "balance": 0
+  }
+]
